@@ -7,7 +7,7 @@ For those of you not familiar with Pacman, it's a game where Pacman (the yellow 
 <img src="https://rb.gy/ws1sl6" alt="Animated gif pacman game" style="max-width:100%;">
 </p>
 
-##Overview
+## Overview
 In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 
 ## Project Files Description
@@ -19,17 +19,25 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 ### Some other supporting files:
 
-* <b>[graphicsDisplay.py]</b> - Graphics for Pacman.
-* <b>[graphicsUtils.py]</b> - Support for Pacman graphics.
-* <b>[textDisplay.py]</b> - ASCII graphics for Pacman.
-* <b>[ghostAgents.py]</b> - Agents to control ghosts.
-* <b>[keyboardAgents.py]</b> - Keyboard interfaces to control Pacman.
-* <b>[layout.py]</b> - Code for reading layout files and storing their contents.
-* <b>[autograder.py]</b> - Project autograder.
-* <b>[search.py]</b> - Parses autograder test and solution files.
-* <b>[testParser.py]</b>[testClasses.py] - General autograding test classes.
-* <b>[test_cases/]</b> - Directory containing the test cases for each scenario.
-* <b>[searchTestClasses.py]</b> - Project specific autograding test classes.
+<ul>
+  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
+  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
+  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
+  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
+  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
+</ul>
+
+* <b>graphicsDisplay.py</b> - Graphics for Pacman.
+* <b>graphicsUtils.py</b> - Support for Pacman graphics.
+* <b>textDisplay.py</b> - ASCII graphics for Pacman.
+* <b>ghostAgents.py</b> - Agents to control ghosts.
+* <b>keyboardAgents.py</b> - Keyboard interfaces to control Pacman.
+* <b>layout.py</b> - Code for reading layout files and storing their contents.
+* <b>autograder.py</b> - Project autograder.
+* <b>testParser.py</b> - Parses autograder test and solution files
+* <b>testClasses.py</b> - General autograding test classes.
+* <b>test_cases/</b> - Directory containing the test cases for each scenario.
+* <b>searchTestClasses.py</b> - Project specific autograding test classes.
 
 ##Introduction
 <p>Start a game by the command:</p>
