@@ -21,6 +21,16 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
 </ul>
+
+<h2>Project Files Description</h2>
+<ul>
+  <li><b>search.py</b> - Where all of the search algorithms reside.</li>
+  <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
+  <li><b>pacman.py</b> - The main file that runs Pacman games. This file also describes a Pacman GameState types.</li>
+  <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
+  <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
+</ul>
+
 <h3>Some other supporting files:</h3>
 <ul>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
