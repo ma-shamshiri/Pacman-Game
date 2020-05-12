@@ -1,5 +1,5 @@
-# Artificial Intelligence (Winter 2020)
-## Project Assignment 1: Pacman agent
+<h1>Artificial Intelligence (Winter 2020)</h1>
+<h2>Project Assignment 1: Pacman agent</h2>
 
 For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the above figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
 
@@ -7,10 +7,10 @@ For those of you not familiar with Pacman, it's a game where Pacman (the yellow 
 <img src="https://rb.gy/ws1sl6" alt="Animated gif pacman game" style="max-width:100%;">
 </p>
 
-## Overview
+<h2>Overview</h2>
 In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 
-## Project Files Description
+<h2>Project Files Description</h2>
 <ul>
   <li><b>search.py</b> - Where all of the search algorithms reside.</li>
   <li><<b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
@@ -19,7 +19,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
 </ul>
 
-### Some other supporting files:
+<h3>Some other supporting files:<h3>
 <ul>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsUtils.py</b> - Support for Pacman graphics.</li>
@@ -32,7 +32,6 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>testClasses.py</b> - General autograding test classes.</li>
   <li><b>test_cases/</b> - Directory containing the test cases for each scenario.</li>
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
-  <li> </li>
 </ul>
 
 ## Introduction
