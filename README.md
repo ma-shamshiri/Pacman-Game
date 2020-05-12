@@ -38,7 +38,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </ul>
 
 <h2>Introduction</h2>
-<p>Start a game by the command:</p>
+<p>You are able to start the game by typing the following at the command line:</p>
 <pre><code>$ python pacman.py
 </code></pre>
 <p>You can see the list of all options and their default values via:</p>
