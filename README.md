@@ -45,6 +45,13 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -h</code></pre>
 <i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
 
+<h2>Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
+I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.
+<p>The Pacman will quickly find a solution via running following commands:</p>
+<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+
 <h2><a id="user-content-hw1-search" class="anchor" aria-hidden="true" href="#hw1-search"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>HW1 Search</h2>
 <ul>
 <li>DFS, BFS, UCS, ASTAR, ASTAR heuristic</li>
