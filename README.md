@@ -22,7 +22,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
 </ul>
 
-<h3>Some other supporting files</h3>
+<h2>Some other supporting files</h2>
 <ul>
   <li><b>search.py</b> - Where all of the search algorithms reside.</li>
   <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
