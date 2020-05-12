@@ -20,11 +20,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>pacman.py</b> - The main file that runs Pacman games. This file also describes a Pacman GameState types.</li>
   <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
-</ul>
 
-<h3>Some other supporting files:<h3>
-  
-<ul>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsUtils.py</b> - Support for Pacman graphics.</li>
   <li><b>textDisplay.py</b> - ASCII graphics for Pacman.</li>
