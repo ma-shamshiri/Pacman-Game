@@ -19,13 +19,13 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 ### Some other supporting files:
 
-<ul>
+<ol>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
-</ul>
+</ol>
 
 * <b>graphicsDisplay.py</b> - Graphics for Pacman.
 * <b>graphicsUtils.py</b> - Support for Pacman graphics.
