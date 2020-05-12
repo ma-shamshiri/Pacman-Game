@@ -11,14 +11,12 @@ For those of you not familiar with Pacman, it's a game where Pacman (the yellow 
 </p>
 
 <h2>Overview</h2>
-<hr></hr>
-
 In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 
 <h2>Project Files Description</h2>
 <ul>
   <li><b>search.py</b> - Where all of the search algorithms reside.</li>
-  <li><<b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
+  <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
   <li><b>pacman.py</b> - The main file that runs Pacman games. This file also describes a Pacman GameState types.</li>
   <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
@@ -39,7 +37,6 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
 </ul>
 
-## Introduction
 <h2>Introduction</h2>
 <p>Start a game by the command:</p>
 <pre><code>$ python pacman.py
