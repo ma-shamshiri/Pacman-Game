@@ -21,7 +21,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
   <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
 </ul>
-<h3>Some other supporting files<h3>
+
 <ul>
   <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
   <li><b>graphicsUtils.py</b> - Support for Pacman graphics.</li>
