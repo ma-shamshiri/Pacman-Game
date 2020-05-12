@@ -17,17 +17,23 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 * [search.py] - Where all of the search algorithms reside.
 * [searchAgents.py] - Where all of the search-based agents reside.
-* [pacman.py] - The main file that runs Pacman games. This file describes a Pacman GameState types.
-* [game.py] - The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid.
+* [pacman.py] - The main file that runs Pacman games. This file also describes a Pacman GameState types.
+* [game.py] - The logic behind how the Pacman world works.
 * [util.py] - Useful data structures for implementing search algorithms.
+Some other supporting files:
 * [graphicsDisplay.py] - Graphics for Pacman.
 * [graphicsUtils.py] - Support for Pacman graphics.
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
+* [textDisplay.py] - ASCII graphics for Pacman.
+* [ghostAgents.py] - Agents to control ghosts.
+* [keyboardAgents.py] - Keyboard interfaces to control Pacman.
+* [layout.py] - Code for reading layout files and storing their contents.
+* [autograder.py] - Project autograder.
+* [testParser.py] - Parses autograder test and solution files.
+* [testClasses.py] - General autograding test classes.
+* [test_cases/] - Directory containing the test cases for each question
+* [searchTestClasses.py] - Project 1 specific autograding test classes
 
-
-
-<h2>Introduction</h2>
+##Introduction
 <p>Start a game by the command:</p>
 <pre><code>$ python pacman.py
 </code></pre>
