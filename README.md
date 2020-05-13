@@ -112,7 +112,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm">
 </p>
 
 <h2>Scenario 7: Eating All The Dots</h2>
