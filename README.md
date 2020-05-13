@@ -84,7 +84,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <h2>Scenario 4: Finding the best path using A* search algorithm</h2>
 <p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
 <p>I used Manhattan distance as the heuristic function.</p>
-<p>A* finds the optimal solution slightly faster than uniform cost search</p>
+<p>A* finds the optimal solution slightly faster than Uniform Cost Search.</p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic</code></pre>
@@ -105,9 +105,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
 </p>
 
-<h2>Scenario 6: Corners Problem: Heuristic</h2>
+<h2>Scenario 6: Corners Problem - Admissible and Consistent function</h2>
 <p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value.</p>
-<p>This function is both <b><i>Admissible</b></i> and <b><i>Consistent</b></i> and has been written in <code>searchAgents.py</code></p>
+<p>This function is both <b><i>Admissible</b></i> and <b><i>Consistent</b></i> and has been written in <code>searchAgents.py.</code></p>
 
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
