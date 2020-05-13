@@ -140,3 +140,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <p align="center"> 
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
+
+<h2>Credits</h2>
+<ul>
+  <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
+  <li>Author: Chien-Sheng Wu</li>
+</ul>
