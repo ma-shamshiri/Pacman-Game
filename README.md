@@ -29,7 +29,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>keyboardAgents.py</b> - Keyboard interfaces to control Pacman.</li>
   <li><b>layout.py</b> - Code for reading layout files and storing their contents.</li>
   <li><b>autograder.py</b> - Project autograder.</li>
-  <li><b>testParser.py</b> - Parses autograder test and solution files</li>
+  <li><b>testParser.py</b> - Parses autograder test and solution files.</li>
   <li><b>testClasses.py</b> - General autograding test classes.</li>
   <li><b>test_cases/</b> - Directory containing the test cases for each scenario.</li>
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
