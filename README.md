@@ -101,7 +101,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 <h2>Scenario 6: Corners Problem: Heuristic</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
-<p>The Pacman will quickly find a solution via running the following commands:</p>
+<p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5</code></pre>
 
