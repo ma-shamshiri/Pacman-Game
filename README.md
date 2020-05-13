@@ -67,7 +67,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 3: Varying the Cost Function</h2>
+<h2>Scenario 3: Finding the best path using Uniform Cost Search</h2>
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
 <p>UCS agents differ only in the cost function they use.</p>
