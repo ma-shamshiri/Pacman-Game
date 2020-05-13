@@ -81,7 +81,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 4: A* search</h2>
+<h2>Scenario 4: Finding the best path using A* search algorithm</h2>
 <p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
 <p>I used Manhattan distance as the heuristic function.</p>
 <p>A* finds the optimal solution slightly faster than uniform cost search</p>
