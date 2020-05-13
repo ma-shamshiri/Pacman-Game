@@ -144,5 +144,5 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <h2>Credits</h2>
 <ul>
   <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
-  <li>Author: Chien-Sheng Wu</li>
+  <li>Author: Mohammad Amin Shamshiri</li>
 </ul>
