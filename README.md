@@ -106,8 +106,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 6: Corners Problem: Heuristic</h2>
-<p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value. in <code>searchAgents.py</code>.</p>
-<p>This function is both Admissible and Consistent.</p>
+<p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value.</p>
+<p>This function is both <b><i>Admissible</b></i> and <b><i>Consistent</b></i> and has been written in <code>searchAgents.py</code></p>
 
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
