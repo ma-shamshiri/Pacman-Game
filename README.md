@@ -11,7 +11,7 @@ For those of you not familiar with Pacman, it's a game where Pacman (the yellow 
 </p>
 
 <p align="center"> 
-<img src="DFS.gif" style="max-width:100%;">
+<img src="DFS.gif" style="width:500px; height:600px; max-width:100%;">
 </p>
 
 <h2>Overview</h2>
