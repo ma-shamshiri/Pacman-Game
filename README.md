@@ -59,9 +59,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs</code></pre>
+<pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
 <img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
@@ -71,9 +70,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs</code></pre>
+<pre><code>$ python pacman.py -l mediumDottedMaze -p StayEastSearchAgent</code></pre>
+<pre><code>$ python pacman.py -l mediumScaryMaze -p StayWestSearchAgent</code></pre>
 
 <p align="center"> 
 <img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
@@ -81,11 +80,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 <h2>Scenario 4: A* search</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
-<p>The Pacman will quickly find a solution via running the following commands:</p>
+<p>The Pacman will quickly find a solution via running the following command:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic</code></pre>
 
 <p align="center"> 
 <img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="500px" width="500px">
@@ -95,9 +92,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
+<pre><code>$ python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
 
 <p align="center"> 
 <img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
@@ -107,21 +103,17 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5</code></pre>
 
 <p align="center"> 
-<img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
+<img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 <h2>Scenario 7: Eating All The Dots</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
-<p>The Pacman will quickly find a solution via running the following commands:</p>
+<p>The Pacman will quickly find a solution via running the following command:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l trickySearch -p AStarFoodSearchAgent</code></pre>
 
 <p align="center"> 
 <img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
@@ -129,11 +121,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 
 <h2>Scenario 8: Suboptimal Search</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
-<p>The Pacman will quickly find a solution via running the following commands:</p>
+<p>The Pacman will quickly find a solution via running the following command:</p>
 
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
+<pre><code>$ python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5</code></pre>
 
 <p align="center"> 
 <img src="gif/Suboptimal Search.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
