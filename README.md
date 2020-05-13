@@ -64,7 +64,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 <h2>Scenario 3: Varying the Cost Function</h2>
@@ -88,7 +88,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="600px" width="600px">
 </p>
 
 <h2>Scenario 5: Finding All the Corners</h2>
@@ -112,7 +112,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm">
+<img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="490px" width="490px">
 </p>
 
 <h2>Scenario 7: Eating All The Dots</h2>
@@ -124,7 +124,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="890px" width="890px">
+<img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 <h2>Scenario 8: Suboptimal Search</h2>
