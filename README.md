@@ -57,7 +57,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -69,7 +69,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 2: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 3: Varying the Cost Function</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -81,7 +81,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 3: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 4: A* search</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -93,7 +93,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 4: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 5: Finding All the Corners</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -105,7 +105,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 5: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 6: Corners Problem: Heuristic</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -117,7 +117,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 6: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 7: Eating All The Dots</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
@@ -129,19 +129,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 7: Finding a Fixed Food Dot using Depth First Search</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
-<p>The Pacman will quickly find a solution via running the following commands:</p>
-
-<pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l mediumMaze -p SearchAgent</code></pre>
-<pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
-
-<p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
-</p>
-
-<h2>Scenario 8: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario 8: Suboptimal Search</h2>
 <p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
