@@ -7,15 +7,11 @@
 For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the above figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
 
 <p align="center"> 
-<img src="https://rb.gy/ws1sl6" alt="Animated gif pacman game" style="max-width:50%;">
-</p>
-
-<p align="center"> 
 <img src="gif/pacman_game.gif" alt="Animated gif pacman game" style="max-width:50%;">
 </p>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637px">
+<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 <h2>Overview</h2>
