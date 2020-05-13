@@ -44,7 +44,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
 
 <h2>Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
 <pre><code>$ python pacman.py -l tinyMaze -p SearchAgent</code></pre>
@@ -56,7 +56,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented the breadth-first search (BFS) algorithm in the breadthFirstSearch function in <code>search.py</code>.</p>
+<p>I wrote a graph search algorithm that avoids expanding any already visited states.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
 <pre><code>$ python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs</code></pre>
@@ -67,7 +68,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 3: Varying the Cost Function</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
+<p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
+<p>UCS agents differ only in the cost function they use.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
 <pre><code>$ python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs</code></pre>
@@ -79,7 +82,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 4: A* search</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
+<p>I used Manhattan distance as the heuristic function.</p>
+<p>A* finds the optimal solution slightly faster than uniform cost search</p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic</code></pre>
@@ -89,7 +94,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 5: Finding All the Corners</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented a search algorithm in <code>searchAgents.py</code> that helps Pacman agent to find the shortest path through the maze that touches all four corners.</p>
+
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
 <pre><code>$ python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
@@ -100,7 +106,9 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 6: Corners Problem: Heuristic</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value. in <code>searchAgents.py</code>.</p>
+<p>This function is both Admissible and Consistent.</p>
+
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5</code></pre>
@@ -110,7 +118,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 7: Eating All The Dots</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>I have implemented a heuristic function that helps Pacman agent to eat all the food in as few steps as possible.</p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l trickySearch -p AStarFoodSearchAgent</code></pre>
@@ -120,7 +128,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 </p>
 
 <h2>Scenario 8: Suboptimal Search</h2>
-<p>I have Implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
+<p>In this scenario, I have implemented a function that helps Pacman agent to find a path to the closest dot.</p>
+<p>This function has been written in <code>searchAgents.py</code></p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
 <pre><code>$ python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5</code></pre>
