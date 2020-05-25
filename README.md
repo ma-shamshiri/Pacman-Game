@@ -138,4 +138,8 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/Suboptimal Search.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-
+<h2>Credits</h2>
+<ul>
+  <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
+  <li>Author: Mohammad Amin Shamshiri</li>
+</ul>
