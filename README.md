@@ -1,6 +1,6 @@
 <h1>Artificial Intelligence (Winter 2020)</h1>
 
-<h2>Project Assignment 1: Pacman agent</h2>
+<h2> :memo: Project Assignment 1: Pacman agent</h2>
 
 For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the below figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
 
@@ -8,10 +8,10 @@ For those of you not familiar with Pacman, it's a game where Pacman (the yellow 
 <img src="gif/pacman_game.gif" alt="Animated gif pacman game" style="max-width:50%;">
 </p>
 
-<h2>Overview</h2>
+<h2> :cloud: Overview</h2>
 In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 
-<h2>Project Files Description</h2>
+<h2> :floppy_disk: Project Files Description</h2>
 <ul>
   <li><b>search.py</b> - Where all of the search algorithms reside.</li>
   <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
@@ -138,7 +138,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/Suboptimal Search.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Credits</h2>
+<h2> :scroll: Credits</h2>
 <ul>
   <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
   <li>Author: Mohammad Amin Shamshiri</li>
