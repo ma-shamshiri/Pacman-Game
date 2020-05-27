@@ -43,7 +43,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <pre><code>$ python pacman.py -h</code></pre>
 <i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
 
-<h2> :one: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
+<h2>Scenario :one: : Finding a Fixed Food Dot using Depth First Search</h2>
 <p>I have implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
