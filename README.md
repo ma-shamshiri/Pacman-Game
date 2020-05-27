@@ -67,7 +67,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 3: Finding the best path using Uniform Cost Search</h2>
+<h2> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
 <p>UCS agents differ only in the cost function they use.</p>
@@ -81,7 +81,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 4: Finding the best path using A* search algorithm</h2>
+<h2> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
 <p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
 <p>I used Manhattan distance as the heuristic function.</p>
 <p>A* finds the optimal solution slightly faster than Uniform Cost Search.</p>
@@ -93,7 +93,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="500px" width="500px">
 </p>
 
-<h2>Scenario 5: Finding All the Corners</h2>
+<h2> :small_orange_diamond: Scenario 5: Finding All the Corners</h2>
 <p>I have implemented a search algorithm in <code>searchAgents.py</code> that helps Pacman agent to find the shortest path through the maze that touches all four corners.</p>
 
 <p>The Pacman will quickly find a solution via running the following commands:</p>
@@ -105,7 +105,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
 </p>
 
-<h2>Scenario 6: Corners Problem - Admissible and Consistent Heuristic</h2>
+<h2> :small_orange_diamond: Scenario 6: Corners Problem - Admissible and Consistent Heuristic</h2>
 <p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value.</p>
 <p>This function is both <b><i>Admissible</b></i> and <b><i>Consistent</b></i> and has been written in <code>searchAgents.py.</code></p>
 
@@ -117,7 +117,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 7: Eating All The Dots</h2>
+<h2> :small_orange_diamond: Scenario 7: Eating All The Dots</h2>
 <p>I have implemented a heuristic function that helps Pacman agent to eat all the food in as few steps as possible.</p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
@@ -127,7 +127,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
 <img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2>Scenario 8: Suboptimal Search</h2>
+<h2> :small_orange_diamond: Scenario 8: Suboptimal Search</h2>
 <p>In this scenario, I have implemented a function that helps Pacman agent to find a path to the closest dot.</p>
 <p>This function has been written in <code>searchAgents.py</code></p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
