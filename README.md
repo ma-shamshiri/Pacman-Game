@@ -35,7 +35,7 @@ In this project, the Pacman agent will find paths through his maze world, both t
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
 </ul>
 
-<h2>Introduction</h2>
+<h2> :book: Introduction</h2>
 <p>You are able to start the game by typing the following at the command line:</p>
 <pre><code>$ python pacman.py</code></pre>
 
