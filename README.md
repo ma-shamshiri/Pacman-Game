@@ -94,7 +94,7 @@
 </p>
 
 <!-- SCENARIO2 -->
-<h2 id="scenario1"> :small_orange_diamond: Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
+<h2 id="scenario2"> :small_orange_diamond: Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
 
 <p>I have implemented the breadth-first search (BFS) algorithm in the breadthFirstSearch function in <code>search.py</code>.</p>
 <p>I wrote a graph search algorithm that avoids expanding any already visited states.</p>
@@ -126,7 +126,6 @@
 <!-- SCENARIO4 -->
 <h2 id="scenario4"> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
 
-<h2> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
 <p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
 <p>I used Manhattan distance as the heuristic function.</p>
 <p>A* finds the optimal solution slightly faster than Uniform Cost Search.</p>
