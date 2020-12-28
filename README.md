@@ -1,4 +1,4 @@
-<h1 align="center"> Artificial Intelligence </h1>
+<h1 align="center"> COMP 6721 - Artificial Intelligence </h1>
 <h3 align="center"> Project Assignment 1: Pacman agent </h3>
 <h5 align="center"> Concordia University (Winter 2020) </h5>
 
