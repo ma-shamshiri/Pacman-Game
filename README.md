@@ -16,7 +16,7 @@
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
-    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li><a href="#scenario1"> ➤ Scenario 1: Finding a Fixed Food Dot using Depth First Search</a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
       <ul>
@@ -81,6 +81,9 @@
 <p>You can see the list of all options and their default values via:</p>
 <pre><code>$ python pacman.py -h</code></pre>
 <i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+
+<!-- SCENARIO1 -->
+<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
 
 <h2> :small_orange_diamond: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
 <p>I have implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
