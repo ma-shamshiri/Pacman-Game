@@ -82,7 +82,6 @@
 <!-- SCENARIO1 -->
 <h2 id="scenario1"> :small_orange_diamond: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
 
-<h2> :small_orange_diamond: Scenario 1: Finding a Fixed Food Dot using Depth First Search</h2>
 <p>I have implemented the depth-first search (DFS) algorithm in the depthFirstSearch function in <code>search.py</code>.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
 
