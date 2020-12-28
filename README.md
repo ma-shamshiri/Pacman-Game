@@ -15,7 +15,7 @@
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#dataset"> ➤ Dataset</a></li>
+    <li><a href="#introduction"> ➤ Introduction</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
@@ -46,7 +46,9 @@
   In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 </p>
 
-<h2> :floppy_disk: Project Files Description</h2>
+<!-- PROJECT FILES DESCRIPTION -->
+<h2 id="project-files-description"> :floppy_disk: Project Files Description</h2>
+
 <ul>
   <li><b>search.py</b> - Where all of the search algorithms reside.</li>
   <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
@@ -70,8 +72,10 @@
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
 </ul>
 
-<h2> :book: Introduction</h2>
-<p>You are able to start the game by typing the following at the command line:</p>
+<!-- INTRODUCTION -->
+<h2 id="introduction"> :book: Introduction</h2>
+
+p>You are able to start the game by typing the following at the command line:</p>
 <pre><code>$ python pacman.py</code></pre>
 
 <p>You can see the list of all options and their default values via:</p>
