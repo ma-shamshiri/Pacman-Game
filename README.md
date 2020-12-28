@@ -94,7 +94,9 @@
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
+<!-- SCENARIO2 -->
+<h2 id="scenario1"> :small_orange_diamond: Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
+
 <p>I have implemented the breadth-first search (BFS) algorithm in the breadthFirstSearch function in <code>search.py</code>.</p>
 <p>I wrote a graph search algorithm that avoids expanding any already visited states.</p>
 <p>The Pacman will quickly find a solution via running the following commands:</p>
@@ -106,7 +108,9 @@
 <img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
+<!-- SCENARIO3 -->
+<h2 id="scenario3"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
+
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
 <p>UCS agents differ only in the cost function they use.</p>
@@ -120,6 +124,9 @@
 <img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
+<!-- SCENARIO4 -->
+<h2 id="scenario4"> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
+
 <h2> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
 <p>I have implemented the A* graph search algorithm in the aStarSearch function in <code>search.py</code>.</p>
 <p>I used Manhattan distance as the heuristic function.</p>
@@ -132,7 +139,9 @@
 <img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="500px" width="500px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 5: Finding All the Corners</h2>
+<!-- SCENARIO5 -->
+<h2 id="scenario5"> :small_orange_diamond: Scenario 5: Finding All the Corners</h2>
+
 <p>I have implemented a search algorithm in <code>searchAgents.py</code> that helps Pacman agent to find the shortest path through the maze that touches all four corners.</p>
 
 <p>The Pacman will quickly find a solution via running the following commands:</p>
@@ -144,7 +153,9 @@
 <img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 6: Corners Problem - Admissible and Consistent Heuristic</h2>
+<!-- SCENARIO6 -->
+<h2 id="scenario6"> :small_orange_diamond: Scenario 6: Corners Problem - Admissible and Consistent Heuristic</h2>
+
 <p>I have implemented a non-trivial non-negative consistent heuristic function that returns 0 at every goal state and never returns a negative value.</p>
 <p>This function is both <b><i>Admissible</b></i> and <b><i>Consistent</b></i> and has been written in <code>searchAgents.py.</code></p>
 
@@ -156,7 +167,9 @@
 <img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 7: Eating All The Dots</h2>
+<!-- SCENARIO7 -->
+<h2 id="scenario7"> :small_orange_diamond: Scenario 7: Eating All The Dots</h2>
+
 <p>I have implemented a heuristic function that helps Pacman agent to eat all the food in as few steps as possible.</p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
 
@@ -166,7 +179,9 @@
 <img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2> :small_orange_diamond: Scenario 8: Suboptimal Search</h2>
+<!-- SCENARIO8 -->
+<h2 id="scenario8"> :small_orange_diamond: Scenario 8: Suboptimal Search</h2>
+
 <p>In this scenario, I have implemented a function that helps Pacman agent to find a path to the closest dot.</p>
 <p>This function has been written in <code>searchAgents.py</code></p>
 <p>The Pacman will quickly find a solution via running the following command:</p>
@@ -177,7 +192,9 @@
 <img src="gif/Suboptimal Search.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
-<h2> :scroll: Credits</h2>
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
 <ul>
   <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
   <li>Author: Mohammad Amin Shamshiri</li>
