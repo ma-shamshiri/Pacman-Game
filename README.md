@@ -15,7 +15,7 @@
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#introduction"> ➤ Introduction</a></li>
+    <li><a href="#getting-started"> ➤ Getting Started</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
@@ -72,8 +72,8 @@
   <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
 </ul>
 
-<!-- INTRODUCTION -->
-<h2 id="introduction"> :book: Introduction</h2>
+<!-- GETTING STARTED -->
+<h2 id="getting-started"> :book: Getting Started</h2>
 
 p>You are able to start the game by typing the following at the command line:</p>
 <pre><code>$ python pacman.py</code></pre>
