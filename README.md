@@ -194,5 +194,6 @@
 <h2 id="credits"> :scroll: Credits</h2>
 
 
-✤ <i>This was the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i><i>Author: Mohammad Amin Shamshiri</i>
+✤ <i>This was the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i> <br>
+  <i>Author: Mohammad Amin Shamshiri</i>
 
