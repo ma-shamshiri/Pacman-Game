@@ -16,7 +16,7 @@
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
-    <li><a href="#scenario1"> ➤ Scenario 1: Finding a Fixed Food Dot using Depth First Search</a></li>
+    <li><a href="#scenario1"> ➤ Scenario 1: <i>Finding a Fixed Food Dot using Depth First Search<i> </a></li>
     <li>
       <a href="#preprocessing"> ➤ Preprocessing</a>
       <ul>
