@@ -1,5 +1,5 @@
 <h1 align="center"> Pacman Agent </h1>
-<h3 align="center"> COMP 6721 - Artificial Intelligence: Pacman Agent </h3>
+<h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
 <h5 align="center"> Project Assignment 1 - Concordia University (Winter 2020) </h5>
 
 <p align="center"> 
