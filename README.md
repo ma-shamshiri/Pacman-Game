@@ -16,7 +16,7 @@
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
-    <li><a href="#scenario1"> ➤ Scenario 1: <i>Finding a Fixed Food Dot using Depth First Search<i> </a></li>
+    <li><a href="#scenario1"> ➤ Scenario 1: <h4>Finding a Fixed Food Dot using Depth First Search<h4> </a></li>
     <li><a href="#scenario2"> ➤ Scenario 2: <i>Finding a Fixed Food Dot using Breadth First Search<i> </a></li>
     <li><a href="#scenario3"> ➤ Scenario 3: <i>Finding the best path using Uniform Cost Search<i> </a></li>
     <li><a href="#scenario4"> ➤ Scenario 4: <i>Finding the best path using A* search algorithm<i> </a></li>
