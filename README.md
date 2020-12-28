@@ -1,5 +1,31 @@
 <h1>Artificial Intelligence (Winter 2020)</h1>
 
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#dataset"> ➤ Dataset</a></li>
+    <li><a href="#roadmap"> ➤ Roadmap</a></li>
+    <li>
+      <a href="#preprocessing"> ➤ Preprocessing</a>
+      <ul>
+        <li><a href="#preprocessed-data">Pre-processed data</a></li>
+        <li><a href="#statistical-feature">Statistical feature</a></li>
+        <li><a href="#topological-feature">Topological feature</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
+  </ol>
+</details>
+
 <h2> :memo: Project Assignment 1: Pacman agent</h2>
 
 For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the below figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
