@@ -14,7 +14,7 @@
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#overview"> ➤ Overview</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
