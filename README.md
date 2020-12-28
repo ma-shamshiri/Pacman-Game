@@ -24,18 +24,8 @@
     <li><a href="#scenario6"> ➤ Scenario 6: Corners Problem - Admissible and Consistent Heuristic </a></li>
     <li><a href="#scenario7"> ➤ Scenario 7: Eating All Dots </a></li>
     <li><a href="#scenario8"> ➤ Scenario 8: Suboptimal Search </a></li>
-    <li>
-      <a href="#preprocessing"> ➤ Preprocessing</a>
-      <ul>
-        <li><a href="#preprocessed-data">Pre-processed data</a></li>
-        <li><a href="#statistical-feature">Statistical feature</a></li>
-        <li><a href="#topological-feature">Topological feature</a></li>
-      </ul>
-    </li>
-    <!--<li><a href="#experiments">Experiments</a></li>-->
-    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
     <li><a href="#references"> ➤ References</a></li>
-    <li><a href="#contributors"> ➤ Contributors</a></li>
+    <li><a href="#credits"> ➤ Credits</a></li>
   </ol>
 </details>
 
