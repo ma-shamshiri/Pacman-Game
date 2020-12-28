@@ -13,7 +13,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#dataset"> ➤ Dataset</a></li>
     <li><a href="#roadmap"> ➤ Roadmap</a></li>
@@ -40,7 +40,7 @@
 </p>
 
 <!-- OVERVIEW -->
-<h2 id="about-the-project"> :cloud: Overview</h2>
+<h2 id="overview"> :cloud: Overview</h2>
 
 <p align="justify"> 
   In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
