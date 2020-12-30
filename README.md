@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="images/Pacman Logo.png" alt="Pacman Logo" width="80px" height="80px">
+  <img src="gif/Pacman Logo.png" alt="Pacman Logo" width="80px" height="80px">
 </p>
 <h1 align="center"> Pacman Agent </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
