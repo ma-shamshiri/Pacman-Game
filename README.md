@@ -223,3 +223,6 @@
 ✤ <i>This was the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i> <br>
   <i>Author: Mohammad Amin Shamshiri</i>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+
