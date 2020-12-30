@@ -20,7 +20,7 @@
     <li><a href="#scenario2"> ➤ Scenario 2: Breadth First Search </a></li>
     <li><a href="#scenario3"> ➤ Scenario 3: Uniform Cost Search </a></li>
     <li><a href="#scenario4"> ➤ Scenario 4: A* search algorithm </a></li>
-    <li><a href="#scenario5"> ➤ Scenario 5: Finding All the Corners </a></li>
+    <li><a href="#scenario5"> ➤ Scenario 5: Finding All Corners </a></li>
     <li><a href="#scenario6"> ➤ Scenario 6: Admissible and Consistent Heuristic </a></li>
     <li><a href="#scenario7"> ➤ Scenario 7: Eating All Dots </a></li>
     <li><a href="#scenario8"> ➤ Scenario 8: Suboptimal Search </a></li>
