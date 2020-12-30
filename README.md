@@ -1,3 +1,6 @@
+<p align="center"> 
+  <img src="images/Pacman Logo.png" alt="Pacman Logo" width="80px" height="80px">
+</p>
 <h1 align="center"> Pacman Agent </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
 <h5 align="center"> Project Assignment 1 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
