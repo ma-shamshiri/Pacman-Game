@@ -117,7 +117,7 @@
 <pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -135,7 +135,7 @@
 <pre><code>$ python pacman.py -l mediumScaryMaze -p StayWestSearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -151,7 +151,7 @@
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic</code></pre>
 
 <p align="center"> 
-<img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="500px" width="500px">
+<img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="430px" width="430px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -167,7 +167,7 @@
 <pre><code>$ python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
 
 <p align="center"> 
-<img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
+<img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="400px" width="400px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
