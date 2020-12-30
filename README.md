@@ -100,7 +100,7 @@
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
+<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -116,7 +116,7 @@
 <pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
+<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
