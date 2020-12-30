@@ -38,6 +38,8 @@
   For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the below figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- OVERVIEW -->
 <h2 id="overview"> :cloud: Overview</h2>
 
@@ -101,7 +103,6 @@
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
 </p>
 
-<br>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO2 -->
@@ -121,15 +122,8 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO3 -->
-<br>
-<br>
-<br>
-<br>
 <h2 id="scenario3"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
-<br>
-<br>
-<br>
-<br>
+
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
 <p>UCS agents differ only in the cost function they use.</p>
@@ -142,6 +136,8 @@
 <p align="center"> 
 <img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO4 -->
 <h2 id="scenario4"> :small_orange_diamond: Scenario 4: Finding the best path using A* search algorithm</h2>
@@ -157,6 +153,8 @@
 <img src="gif/A.gif" alt="Animated gif DFS Algorithm" height="500px" width="500px">
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- SCENARIO5 -->
 <h2 id="scenario5"> :small_orange_diamond: Scenario 5: Finding All the Corners</h2>
 
@@ -170,6 +168,8 @@
 <p align="center"> 
 <img src="gif/All Corners.gif" alt="Animated gif DFS Algorithm" height="420px" width="420px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO6 -->
 <h2 id="scenario6"> :small_orange_diamond: Scenario 6: Corners Problem - Admissible and Consistent Heuristic</h2>
@@ -185,6 +185,8 @@
 <img src="gif/Corner Heuristic.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- SCENARIO7 -->
 <h2 id="scenario7"> :small_orange_diamond: Scenario 7: Eating All The Dots</h2>
 
@@ -196,6 +198,8 @@
 <p align="center"> 
 <img src="gif/All Dots.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SCENARIO8 -->
 <h2 id="scenario8"> :small_orange_diamond: Scenario 8: Suboptimal Search</h2>
@@ -209,6 +213,8 @@
 <p align="center"> 
 <img src="gif/Suboptimal Search.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
