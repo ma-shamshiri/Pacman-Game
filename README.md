@@ -109,8 +109,11 @@
 </p>
 
 <!-- SCENARIO3 -->
-<h2 id="scenario30"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
-
+<h2 id="scenario3"> :small_orange_diamond: Scenario 30: Finding the best path using Uniform Cost Search</h2>
+<br>
+<br>
+<br>
+<br>
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
 <p>UCS agents differ only in the cost function they use.</p>
