@@ -1,6 +1,6 @@
 <h1 align="center"> Pacman Agent </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
-<h5 align="center"> Project Assignment 1 - Concordia University (Winter 2020) </h5>
+<h5 align="center"> Project Assignment 1 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
 
 <p align="center"> 
   <img src="gif/pacman_game.gif" alt="Animated gif pacman game">
