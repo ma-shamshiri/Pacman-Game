@@ -167,7 +167,7 @@
 <pre><code>$ python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem</code></pre>
 
 <p align="center"> 
-<img src="gif/All Corners.gif" alt="Animated gif Finding All of the Corners" height="50%" width="50%">
+<img src="gif/All Corners.gif" alt="Animated gif Finding All of the Corners" height="30%" width="30%">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
