@@ -104,7 +104,7 @@
 <pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm"">
+<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" width="45%" height="45%">
 </p>
 
 <!-- SCENARIO3 -->
