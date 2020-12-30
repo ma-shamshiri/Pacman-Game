@@ -93,7 +93,7 @@
 <img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
 </p>
 
-
+<br>
 <!-- SCENARIO2 -->
 <h2 id="scenario2"> :small_orange_diamond: Scenario 2: Finding a Fixed Food Dot using Breadth First Search</h2>
 
@@ -108,7 +108,7 @@
 <img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
 </p>
 
-
+<br>
 <!-- SCENARIO3 -->
 <h2 id="scenario3"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
 
