@@ -109,7 +109,11 @@
 </p>
 
 <!-- SCENARIO3 -->
-<h2 id="scenario3"> :small_orange_diamond: Scenario 30: Finding the best path using Uniform Cost Search</h2>
+<br>
+<br>
+<br>
+<br>
+<h2 id="scenario3"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
 <br>
 <br>
 <br>
