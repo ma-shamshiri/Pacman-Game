@@ -3,7 +3,7 @@
 <h5 align="center"> Project Assignment 1 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
 
 <p align="center"> 
-  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282" width="937">
+  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282" width="637">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -100,7 +100,7 @@
 <pre><code>$ python pacman.py -l bigMaze -z .5 -p SearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
+<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="282" width="637"">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
