@@ -3,7 +3,7 @@
 <h5 align="center"> Project Assignment 1 - Concordia University (Winter 2020) </h5>
 
 <p align="center"> 
-  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" style="max-width:50%;">
+  <img src="gif/pacman_game.gif" alt="Animated gif pacman game">
 </p>
 
 <!-- TABLE OF CONTENTS -->
