@@ -72,7 +72,7 @@
 <!-- GETTING STARTED -->
 <h2 id="getting-started"> :book: Getting Started</h2>
 
-<p>You are able to start the game by typing the following at the command line:</p>
+<p>You are able to start the game by typing the following commands in the command line:</p>
 <pre><code>$ python pacman.py</code></pre>
 
 <p>You can see the list of all options and their default values via:</p>
