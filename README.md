@@ -105,12 +105,11 @@
 <pre><code>$ python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</code></pre>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px><br>
+<img src="gif/BFS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px>
 </p>
 
-<br>
 <!-- SCENARIO3 -->
-<h2 id="scenario3"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
+<h2 id="scenario30"> :small_orange_diamond: Scenario 3: Finding the best path using Uniform Cost Search</h2>
 
 <p>I have implemented the uniform-cost graph search (UCS) algorithm in the uniformCostSearch function in <code>search.py</code>.</p>
 <p>While BFS will find a fewest-actions path to the goal, UCS will find paths that are “best” in other senses.</p>
@@ -122,7 +121,7 @@
 <pre><code>$ python pacman.py -l mediumScaryMaze -p StayWestSearchAgent</code></pre>
 
 <p align="center"> 
-<img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px"><br>
+<img src="gif/UCS.gif" alt="Animated gif DFS Algorithm" height="382px" width="737px">
 </p>
 
 <!-- SCENARIO4 -->
